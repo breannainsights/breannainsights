@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Breanna, a professional Business Intellgience and Data Analyst
+## Hi there 👋 This is Breanna Coleman
 
 <!--
 **breannainsights/breannainsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
