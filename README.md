@@ -1,6 +1,6 @@
 ## Hi there 👋 This is Breanna Coleman
-
-<!--
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcoleman.breanna@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breannacolemanj) [![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breannainsights) [![Portfolio](https://img.shields.io/badge/BI%20Projects-View%20Case%20Studies-4B8BBE?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/https://drive.google.com/drive/folders/1qQpH55ONfvjT9edzRdaAqMh9U9-wG_0S)<!--
 **breannainsights/breannainsights** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
