@@ -8,8 +8,8 @@ I'm a Business Intelligence & Data Analyst with experience across 7+ hands-on pr
 🔭 I’m currently working on completing my final capstone project as part of a Business Intelligence and Data Analytics program, where I am applying SQL, Python, and data visualization tools to solve real-world business problems. <br>
 🌱 Throughout my learning journey, I have worked on multiple end-to-end projects involving data cleaning, analysis, and dashboard development using tools such as Power BI and Tableau. These projects have helped me strengthen my analytical thinking, communication, and problem-solving skills, while also improving my ability to translate raw data into meaningful insights. <br>
 👯 I’m open to collaborate on data analytics and BI projects to continue building hands-on experience with real-world datasets and dashboards. <br>
-🤔 I’m looking for opportunities to strengthen my skills in Python, SQL, and data visualization through feedback, mentorship, and project-based learning. <br>
-💬 You can view my projects and progress in my repositories.
+🔍 I’m looking for opportunities to strengthen my skills in Python, SQL, and data visualization through feedback, mentorship, and project-based learning. <br>
+📊 You can view my projects and progress in my repositories.
   
 ⚡ Fun facts about me:
 - I'm a gym enthusiast and enjoy fitness training, and golfing.
