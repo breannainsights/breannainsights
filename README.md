@@ -18,3 +18,5 @@ I'm a Business Intelligence & Data Analyst with experience across 7+ hands-on pr
 - My goals for 2026: to land my dream job in data and reach my target weight.
 
 📫 Feel free to contact me by email or LinkedIn.
+
+![Profile Views](https://komarev.com/ghpvc/?username=breannainsights&label=Profile%20Views&color=blue&style=flat)
