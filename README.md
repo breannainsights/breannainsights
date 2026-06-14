@@ -1,6 +1,8 @@
 ## Hi 👋 I'm Breanna, a business intelligence & data analyst
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcoleman.breanna@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/breannacolemanj)[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breannainsights)[![Projects](https://img.shields.io/badge/BI%20Projects-View%20Portfolio-4B8BBE?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/https://drive.google.com/drive/folders/1qQpH55ONfvjT9edzRdaAqMh9U9-wG_0S) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/breannacolemanj)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/breannainsights)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4B8BBE?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1qQpH55ONfvjT9edzRdaAqMh9U9-wG_0S) <br>
 I'm a Business Intelligence & Data Analyst with experience across 7+ hands-on projects. My skill set includes SQL, Python, Power BI, Tableau, and business analytics, with a focus on transforming data to clear insights and actionable decisions. I'm currently building on my technical foundation through a data analytics certification program and am open to opportunities across a variety of industries where I can apply data storytelling, visualization, and problem-solving to drive business impact.
 
 🔭 I’m currently working on completing my final capstone project as part of a Business Intelligence and Data Analytics program, where I am applying SQL, Python, and data visualization tools to solve real-world business problems. <br>
