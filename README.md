@@ -21,4 +21,4 @@ I'm a Business Intelligence & Data Analyst with experience across 7+ hands-on pr
 
 You can view my resume [here](https://drive.google.com/file/d/18tMEt-uJVwqTpZYv-kw4aV8eLp3S8Naw/view?usp=drivesdk).
 
-[Profile Views](https://komarev.com/ghpvc/?username=breannainsights&label=Profile%20Views&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=breannainsights&label=Profile%20Views&color=blue&style=flat)
